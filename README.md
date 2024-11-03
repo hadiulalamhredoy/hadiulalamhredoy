@@ -10,6 +10,8 @@
 hadiulalamhredoy/hadiulalamhredoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
 <h1 align="center">Hi 👋, I'm Hadiul Alam Hredoy</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -20,6 +22,9 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hadiul-alam-hredoy-6aaa40312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hadiul-alam-hredoy-6aaa40312/" height="30" width="40" /></a>
+<a href="https://instagram.com/hredoy5549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hredoy5549" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/busy_fest_69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="busy_fest_69" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/hadiulalamhredoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/hadiulalamhredoy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/hredoy284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hredoy284/" height="30" width="40" /></a>
 </p>
 
