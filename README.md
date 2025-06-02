@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hadiulalamhredoy
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Java Object Oriented Programming 
+- 🌱 I’m currently learning ...  Object Oriented Programming 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .. github . hadiulalam284@gmail.com
 - https://www.codechef.com/users/basic_bats_84
