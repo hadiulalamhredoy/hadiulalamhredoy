@@ -7,21 +7,21 @@
 
 - 🌱 I’m currently learning **Algorithms**
 
-- 💬 Ask me about **https://www.hackerrank.com/profile/hadiulalamhredo1**    https://profiles.topcoder.com/hredoy284
+- 💬 Ask me about **https://www.hackerrank.com/profile/hadiulalamhredo1**
 
 - 📫 How to reach me **hadiulalam284@gmail.com**
 
-- ⚡ Fun fact **https://www.codechef.com/users/basic_bats_84**    https://atcoder.jp/users/hredoy8790
+- ⚡ Fun fact **https://www.codechef.com/users/basic_bats_84**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/hadiulalam14117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/hadiulalam14117" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hadiul-alam-hredoy-6aaa40312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hadiul-alam-hredoy-6aaa40312/" height="30" width="40" /></a>
 <a href="https://instagram.com/hredoy5549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hredoy5549" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/basic_bats_84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="basic_bats_84" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hadiulalamhredo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hadiulalamhredo1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hadiulalamhredoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hadiulalamhredoy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/hredoy284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hredoy284/" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/https://profiles.topcoder.com/hredoy284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/hredoy284" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
