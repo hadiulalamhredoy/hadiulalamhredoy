@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Algorithms**
 
-- 💬 Ask me about **https://www.hackerrank.com/profile/hadiulalamhredo1**
+- 💬 Ask me about **https://www.hackerrank.com/profile/hadiulalamhredo1**    https://profiles.topcoder.com/hredoy284
 
 - 📫 How to reach me **hadiulalam284@gmail.com**
 
