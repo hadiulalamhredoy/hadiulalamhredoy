@@ -12,7 +12,7 @@
 - 📫 How to reach me **hadiulalam284@gmail.com**
 
 - ⚡ Fun fact **https://www.codechef.com/users/basic_bats_84**
--                https://vjudge.net/user/hadiulalamhredoy
+   https://vjudge.net/user/hadiulalamhredoy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
