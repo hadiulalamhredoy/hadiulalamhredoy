@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **https://www.hackerrank.com/profile/hadiulalamhredo1**
 
-- 📫 How to reach me **hadiulalam284@gmail.com**
+- 📫 How to reach me **hadiulalam284@gmail.com** https://www.studocu.com/en-au/user/hadiul-alam-hredoy/50208775
 
 - ⚡ Fun fact **https://www.codechef.com/users/basic_bats_84**
    https://vjudge.net/user/hadiulalamhredoy
