@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **https://www.codechef.com/users/basic_bats_84**
    https://vjudge.net/user/hadiulalamhredoy
-  buymeacoffee.com/hadiulalamg
+   https://buymeacoffee.com/hadiulalamg
   https://gamma.app/docs/Hadiul-Alam-Hredoy-hsanhtosaw0e8tn/preview?mode=doc
 
 <h3 align="left">Connect with me:</h3>
