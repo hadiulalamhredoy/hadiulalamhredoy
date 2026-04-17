@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="center">Hi There this is Hadiul Alam Hredoy. I have a passonoated Software Engineer at Bangaldesh</h1>
+<h1 align="center">Hi 👋, I'm Hadiul Alam HredoyA passionate Full Stack developer from Bangladesh</h1>
 
 ###
 
