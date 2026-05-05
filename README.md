@@ -1,6 +1,9 @@
 # 💫 About Me: As a passionate developer with a strong foundation in C, C++, Java, Java Swing, SQL, Data Structures, HTML,
-and CSS, I am constantly learning and expanding my skill set. I have experience building Java-based applications
-and developing frontend projects by applying both my technical knowledge and creativity.
+and CSS, I am constantly learning and expanding my skill set. I have experience building Java-based applications and developing frontend projects by applying both my technical knowledge and creativity.
+ 
+ 
+ 
+ 
  🔭 I’m working as Avalonbay Community<br>- 📚 I'm currently learning DBMS<br>- ⚡ In my free time I like yo go to outside
 
 
